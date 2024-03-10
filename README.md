@@ -6,7 +6,7 @@
 </a>
 
 
-**Photograph enthusiast** <a href="https://www.pexels.com/@toky-axel-301058/">
+**Photography enthusiast** <a href="https://www.pexels.com/@toky-axel-301058/">
   <img align="left" alt="Toky Axel's Medium" width="25px" src="https://simpleicons.now.sh/pexels/495f7e" />
 </a>
 
